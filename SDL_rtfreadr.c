@@ -27,6 +27,7 @@
 #include <ctype.h>
 
 #include "SDL_rtf.h"
+#define _SDL_RTF_H
 #include "SDL_rtfreadr.h"
 
 #include "rtftype.h"
